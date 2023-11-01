@@ -1,8 +1,8 @@
 # virtualbox
 
-[Screenshoots](https://drive.google.com/drive/folders/1KlHbZwru5x_htbWHHcOFr0j9XAoqlC0Q?usp=sharing)
+[Screenshots](https://drive.google.com/drive/folders/1KlHbZwru5x_htbWHHcOFr0j9XAoqlC0Q?usp=sharing)
 
-To allow copy and paste using virtualbox (Ubuntu 22.04)
+To allow copy and paste using virtualbox (Ubuntu 22.04):
 
 1. On guest window: Devices -> insert Guest Addition CD image...
 
