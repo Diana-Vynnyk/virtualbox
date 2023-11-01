@@ -5,9 +5,13 @@
 To allow copy and paste using virtualbox (Ubuntu 22.04)
 
 1.On guest window: Devices -> insert Guest Addition CD image...
+
 2. On guest window: Open the VBox_GAs_ CD on terminal
+
 3. On guest window:./autorun.sh
+
 4. On guest window: Devices->Shared Clipboard->Bidirectional
+
 5. On guest window: Reboot the guest
 
 ## Sources
